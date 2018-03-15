@@ -5,7 +5,7 @@ author: tm_kevin
 date: 2018-03-15
 excerpt: "An indie game dev studio developing a location-based Android game."
 tags: [Turbo Mustard, general]
-feature: https://i.imgur.com/5k2ODoc.png
+feature: https://i.imgur.com/hzIq9Vb.png
 comments: true
 ---
 
