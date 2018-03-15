@@ -8,10 +8,23 @@ comments: false
 
 ## The Team
 
-* Michael Schwarz
-* Kevin Yu
-* Samuel Rowe
-* David Coursey
+**Michael Schwarz**
+
+* **Role:** Supreme Overlord
+
+**Kevin Yu**
+
+* **Role:** Project Manager, Software Engineer, Tester
+* [Personal Website](https://0elo.github.io)
+
+**Samuel Rowe**
+
+* **Role:** Lead Game Designer, Scriptwriter
+
+**David Coursey**
+
+* **Role:** Creative Director, Audio Engineer, Scriptwriter
+* [Personal Website](http://www.davidpcoursey.com/)
 
 ## Contact
 
