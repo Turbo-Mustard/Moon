@@ -14,7 +14,7 @@ comments: false
 
 **Kevin Yu**
 
-* **Role:** Project Manager, Software Engineer, Tester
+* **Role:** Project Manager, Game Designer and Programmer
 * [Personal Website](https://0elo.github.io)
 
 **Samuel Rowe**
