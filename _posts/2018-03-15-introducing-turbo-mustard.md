@@ -4,7 +4,7 @@ title: "Introducing Turbo Mustard"
 author: tm_kevin
 date: 2018-03-15
 excerpt: "An indie game dev studio developing a location-based Android game."
-tags: [Turbo Mustard, general]
+tags: [TM Kevin, general]
 feature: https://i.imgur.com/oJBguey.png
 comments: true
 ---
